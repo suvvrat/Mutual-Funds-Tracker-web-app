@@ -1,0 +1,91 @@
+{
+  "is_error": false,
+  "msg": "OK",
+  "loan_to_value": "Healthy",
+  "portfolio": [
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW",
+      "current_value": 326.7294,
+      "folio_number": "119551",
+      "units": 3,
+      "nav": "108.9098"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - MONTHLY IDCW",
+      "current_value": 7513.8822,
+      "folio_number": "119552",
+      "units": 66,
+      "nav": "113.8467"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - Direct - Quarterly IDCW",
+      "current_value": 3673.3323,
+      "folio_number": "119553",
+      "units": 33,
+      "nav": "111.3131"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - IDCW",
+      "current_value": 5877.6444,
+      "folio_number": "108272",
+      "units": 36,
+      "nav": "163.2679"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - MONTHLY IDCW",
+      "current_value": 7860.2254,
+      "folio_number": "110282",
+      "units": 71,
+      "nav": "110.7074"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - Quarterly IDCW",
+      "current_value": 9968.1724,
+      "folio_number": "108274",
+      "units": 92,
+      "nav": "108.3497"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - retail - monthly IDCW",
+      "current_value": 8845.344000000001,
+      "folio_number": "110490",
+      "units": 80,
+      "nav": "110.5668"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - retail - quarterly IDCW",
+      "current_value": 7555.1672,
+      "folio_number": "106157",
+      "units": 68,
+      "nav": "111.1054"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Growth",
+      "current_value": 19851.1105,
+      "folio_number": "108273",
+      "units": 65,
+      "nav": "305.4017"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Retail Plan-Growth",
+      "current_value": 4126.0248,
+      "folio_number": "103176",
+      "units": 9,
+      "nav": "458.4472"
+    },
+    {
+      "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund- Direct Plan-Growth",
+      "current_value": 1885.935,
+      "folio_number": "119550",
+      "units": 6,
+      "nav": "314.3225"
+    },
+    {
+      "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Bonus Option",
+      "current_value": 61313.087999999996,
+      "folio_number": "128952",
+      "units": 40,
+      "nav": "1532.8272"
+    }
+  ]
+}
